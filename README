@@ -1,0 +1,18 @@
+Prerequisites:
+
+	Python 2.7
+	MatPlotLib
+	iPython
+	NumPy
+
+	See http://www.endlesslycurious.com/2011/04/06/installing-python-matplotlib-ipython-on-snow-leopard/
+	for help setting this up.  The tutorial does not cover installing Numpy from http://numpy.scipy.org/.
+	
+Interactive shell:
+
+	ipython -pylab
+
+Help:
+
+	NumPy API: http://www.scipy.org/Numpy_Example_List_With_Doc
+	MatPlotLib API: http://matplotlib.sourceforge.net/api/
